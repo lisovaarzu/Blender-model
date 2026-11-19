@@ -1,0 +1,17 @@
+{
+  "lotus_objects": 73,
+  "original_file_sha256": "9eb660cef858b3df792e9279dfcb13752c86e318a01479f0dbaca04e48d4918d",
+  "backup_sha256": "9eb660cef858b3df792e9279dfcb13752c86e318a01479f0dbaca04e48d4918d",
+  "source_snapshot_sha256": "e6b71eb51e15fca753e00abf2300f1187a7f47d4090c7f542fed1856c52bc22a",
+  "saved_snapshot_sha256": "e6b71eb51e15fca753e00abf2300f1187a7f47d4090c7f542fed1856c52bc22a",
+  "flower_unchanged": true,
+  "growing_crystal_flower_intersections": [],
+  "pot_uniform_scale": 3.8,
+  "pot_translation": [
+    -0.17000000178813934,
+    0.03500000014901161,
+    -3.619523763656616
+  ],
+  "soil_height": -1.43,
+  "blender_version": "5.3.0"
+}
